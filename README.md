@@ -59,6 +59,6 @@ A ferramenta gera uma série de arquivos shapefile ou geodatabase no diretório 
 
 Para dúvidas ou sugestões, entre em contato:
 
-- **Nome**: Silas Olivrira
+- **Nome**: Silas Oliveira
 - **E-mail**: silas@setmapgeo.com
 - **LinkedIn**: https://www.linkedin.com/in/silas-oliveira-41a633186/
