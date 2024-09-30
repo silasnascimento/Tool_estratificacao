@@ -55,29 +55,6 @@ A ferramenta gera uma série de arquivos shapefile ou geodatabase no diretório 
 - Áreas classificadas como dentro ou fora de APP.
 - Camadas de análise final com fusão de todas as áreas processadas.
 
-## Contribuindo
-
-Contribuições são bem-vindas! Siga os seguintes passos para contribuir:
-
-1. Faça um fork do repositório.
-2. Crie uma branch para a sua feature:
-   ```bash
-   git checkout -b feature/sua-feature
-   ```
-3. Faça um commit com suas alterações:
-   ```bash
-   git commit -m 'Adicionando uma nova feature'
-   ```
-4. Faça um push para a branch:
-   ```bash
-   git push origin feature/sua-feature
-   ```
-5. Abra um Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 
 Para dúvidas ou sugestões, entre em contato:
